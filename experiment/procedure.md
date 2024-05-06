@@ -1,15 +1,17 @@
-#### These procedure steps will be followed on the simulator
+### Procedure
+
+<div style="text-align:left">
+  Click on the Simulation icon    <img src="images/simulation.png" alt="Alt text" style="height:80px; width:80px;">  to view the simulation screen. 
+
+   ![Alt text](images/Simscreen1.png)
+   
+   In order to view the variable section click on the Variable icon. <img src="images/var1.png" alt="Alt text" style="height:80px; width:80px;"> and to change the variables click on the Next <img src="images/next2.png" alt="Alt text" style="height:80px; width:80px;"> or Previous <img src="images/prev.png" alt="Alt text" style="height:80px; width:80px;"> button inside the variable section.
 
 
-1. In simulation window top of two masses rotating on a shaft is displayed.<br>
-2. There are pointers given on right side of the screen for choosing the values of input variables, viz., two unbalanced masses on the shaft (m1, m2), their radii of rotation (r1, r2) and relative angular position (theta1). After setting these variables, it is required to move on to the next pane by clicking on navigation button at the bottom right corner.<br>
-![alt text](images/singleExp1.png)<br>
+   ![Alt text](images/var2.png)
 
-3. After moving on to the next pane, the radius and positions of the balancing masses have to be entered by adjusting the slider. After setting the values, it is required by the user to calculate the values of balancing mass.<br>
-![alt text](images/singleExp2.png)<br>
+   Click on Play icon <img src="images/play1.png" alt="Alt text" style="height:80px; width:80px;"> to run the simulation and click on Pause icon <img src="images/pause.png" alt="Alt text" style="height:80px; width:80px;"> to stop it.
 
-4. Click on submit to submit the results and press play/pause button to pause the simulation.<br>
-![alt text](images/singleExp3.png)<br>
-
-5. Compare analytically calculated results and the error in the result with the simulation results, displayed in the bottom of the simulator page.<br>
-![alt text](images/singleExp4.png)<br>
+   Click on the Rotate icon <img src="images/rotate_clockwise.png" alt="Alt text" style="height:80px; width:80px;"> to change the direction of rotation.
+   
+</div>
